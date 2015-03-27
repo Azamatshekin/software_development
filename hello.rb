@@ -8,8 +8,8 @@ def greet(variable)
 	>  greet("Azamat")
 	=> "Hello, Azamat!"
 =end
-	# write your code here
-  puts "Hello"
+  # write your code here
+  return "Hello, "+variable+"!"
 end
 
 def hello
@@ -24,4 +24,5 @@ def hello
 	=> "Hello!"
 =end
 	# write your code here
+  return "Hello!";
 end
