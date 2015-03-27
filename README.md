@@ -2,5 +2,6 @@
 Version 1.0 =>initializing repository
 Version 1.1 =>creating new Branch called "aza"
 Version 1.2 =>commiting modified files to created Branch "aza"
+Version 1.3 =>making check - in ..
 
 
